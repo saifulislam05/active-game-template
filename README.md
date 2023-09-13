@@ -6,6 +6,9 @@ You can view the project live at [Active Games Template](https://saifulislam05.g
 ## Project Description
 The "Active Games Template" is a web template that showcases a user dashboard for a gaming platform. It includes a sidebar with navigation items, user profile information, and a display of active games.
 
+## UI
+![image](https://github.com/saifulislam05/active-game-template/assets/73392705/a610d133-046b-4ec6-a7d5-24bcaadaaa6e)
+
 ## HTML Structure
 
 ### Sidebar (`.sidebar`)
